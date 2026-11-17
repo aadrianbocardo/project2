@@ -1,7 +1,3 @@
-# Comics data analysis
-
-This project combines Marvel and DC character datasets and explores data quality and association rules. The notebook is in `scripts/`, the source CSV files are in `datasets/`, and the generated profiling report is in `outputs/`.
-
 ## Setup
 
 Use Python 3.14 and create a virtual environment in the project folder:
