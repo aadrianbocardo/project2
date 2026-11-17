@@ -1,0 +1,5 @@
+pandas==2.3.3
+numpy==2.5.4
+mlxtend==0.25.0
+fg-data-profiling==4.20.0
+ipykernel==7.4.0
